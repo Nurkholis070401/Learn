@@ -6,10 +6,10 @@ MongoDB, Expressjs, React/Redux, Nodejs
 </p>
 
 <p align="center">
-   <a href="https://github.com/amazingandyyy/mern/blob/master/LICENSE">
+   <a href="https://github.com/Nurkholis070401/LearnGo-Full-Stack/blob/main/LICENSE">
       <img src="https://img.shields.io/badge/License-MIT-green.svg" />
    </a>
-   <a href="https://circleci.com/gh/amazingandyyy/mern">
+   <a href="https://github.com/Nurkholis070401/LearnGo-Full-Stack">
       <img src="https://circleci.com/gh/amazingandyyy/mern.svg?style=svg" />
    </a>
 </p>
