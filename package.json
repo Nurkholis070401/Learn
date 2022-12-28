@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "eslint-plugin-react": "^7.31.11"
+  },
+  "dependencies": {
+    "yarn": "^1.22.19"
+  }
+}
