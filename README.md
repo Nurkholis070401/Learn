@@ -38,6 +38,15 @@ client/
 
 # Usage (run fullstack app on your machine)
 
+## Languages & tools
+
+- [Node](https://nodejs.org/en/)
+
+- [Express](https://expressjs.com/)
+
+- [Mongoose](https://mongoosejs.com/)
+
+- [React](https://reactjs.org/)
 ## Prerequisites
 - [MongoDB](https://gist.github.com/nrollr/9f523ae17ecdbb50311980503409aeb3)
 - [Node](https://nodejs.org/en/download/) ^10.0.0
