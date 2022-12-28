@@ -45,13 +45,23 @@ client/
 
 notice, you need client and server runs concurrently in different terminal session, in order to make them talk to each other
 
-## Client-side usage(PORT: 3000)
+## Client-side
 ```terminal
 $ cd client          // go to client folder
 $ yarn # or npm i    // npm install packages
 $ npm run dev        // run it locally
 
 // deployment for client app
+$ npm run build // this will compile the react code using webpack and generate a folder called docs in the root level
+$ npm run start // this will run the files in docs, this behavior is exactly the same how gh-pages will run your static site
+```
+## Server-side
+```terminal
+$ cd server          // go to server folder
+$ yarn # or npm i    // npm install packages
+$ npm run dev        // run it locally
+
+// deployment for server app
 $ npm run build // this will compile the react code using webpack and generate a folder called docs in the root level
 $ npm run start // this will run the files in docs, this behavior is exactly the same how gh-pages will run your static site
 ```
